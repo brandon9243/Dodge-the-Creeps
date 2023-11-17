@@ -18,11 +18,9 @@ Note: There is a GDNative C++ version available [here](https://github.com/godote
 
 Check out this demo on the asset library: https://godotengine.org/asset-library/asset/515
 
-## Screenshots
+## Screenshot
 
 ![GIF from the documentation](https://docs.godotengine.org/en/latest/_images/dodge_preview.gif)
-
-![Screenshot](screenshots/dodge.png)
 
 ## Copying
 
